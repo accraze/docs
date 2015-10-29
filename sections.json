@@ -17,9 +17,13 @@
   "id": "files",
   "title": "Configuring npm"
 }, {
+  "id": "changelog",
+  "title": "CHANGELOG"
+}, {
   "id": "policies",
   "title": "npm policy documents"
-}, {
+},
+ {
   "id": "company",
   "title": "npm, the Company",
   "ignoreOnHomepage": true
