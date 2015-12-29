@@ -23,6 +23,9 @@
   "id": "files",
   "title": "Configuring npm"
 }, {
+  "id": "changelog",
+  "title": "Changelog"
+}, {
   "id": "policies",
   "title": "npm policy documents"
 }, {
