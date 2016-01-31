@@ -16,7 +16,7 @@ cp -pr node_modules/npm/doc/cli content/
 cp -pr node_modules/npm/doc/files content/
 cp -pr node_modules/npm/doc/misc content/
 mkdir content/changelog
-cp -p node_modules/npm/CHANGELOG.md content/changelog/CHANGELOG.md
+split-md node_modules/npm/CHANGELOG.md '### v' '###' 'content/changelog/'
 rm -f  content/misc/npm-index.md
 
 cp -pr node_modules/@npm/policies content/
