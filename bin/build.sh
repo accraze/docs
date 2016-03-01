@@ -7,6 +7,7 @@ rm -rf content/api
 rm -rf content/cli
 rm -rf content/files
 rm -rf content/misc
+rm -rf content/changelog
 
 rm -rf content/policies
 
